@@ -54,3 +54,6 @@ gem "rack-cors", "~> 2.0"
 gem "faker", "~> 3.2"
 
 gem "table_print", "~> 1.5"
+gem 'httparty'
+gem 'uri'
+gem 'dotenv-rails', groups: [:development, :test]
